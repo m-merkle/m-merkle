@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-merkle
+- 👋 Hi, I’m Montana Merkle
 - 👀 I’m interested in soccer, video games, and reading
 - 🌱 I’m currently learning about operating systems
 - 📫 How to reach me: montanamerkle@gmail.com
